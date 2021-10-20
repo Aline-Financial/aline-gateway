@@ -22,6 +22,7 @@ app:
           - "@/users/{segment}"
           - "@/users/{segment}/profile"
           - "@/users/{segment}/avatar"
+          - "@/users/{segment}/profile/status"
           - "@/login"
           - "/login"
       - id: "underwriter"
